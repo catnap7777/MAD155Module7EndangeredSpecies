@@ -15,13 +15,13 @@ import android.widget.Toast;
 
 public class MainActivity extends AppCompatActivity {
 
-        Integer[] animals =  {
-            R.drawable.eagle,
-            R.drawable.elephant,
-            R.drawable.gorilla,
-            R.drawable.panther,
-            R.drawable.panda,
-            R.drawable.polar};
+    Integer[] animals =  {
+        R.drawable.eagle,
+        R.drawable.elephant,
+        R.drawable.gorilla,
+        R.drawable.panther,
+        R.drawable.panda,
+        R.drawable.polar};
 
     ImageView pic;
 
